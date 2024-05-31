@@ -1,0 +1,9 @@
+<p>NCEDCloud, which stands for North Carolina Education Cloud, is a state-wide initiative in North Carolina, USA, designed to provide cloud-based services to K-12 public schools. Its goal is to offer scalable, secure, and cost-effective technology solutions to enhance educational experiences and streamline administrative processes. Here are some key aspects of NCEDCloud:</p>
+
+<p>Single Sign-On (SSO): NCEDCloud provides a single sign-on service, allowing students, teachers, and administrators to access multiple educational applications with one set of login credentials. This simplifies access to various tools and resources used in the classroom and for administrative tasks.</p>
+
+<p>Identity and Access Management (IAM): NCEDCloud includes identity and access management services to ensure secure and appropriate access to resources. This includes managing user identities, roles, and permissions across different systems.</p>
+
+<p>Cloud Services: By leveraging cloud technology, NCEDCloud offers scalable infrastructure and services. This means schools can adjust their technology resources based on demand without significant capital investments in hardware.</p>
+
+<p>Data Integration: NCEDCloud facilitates data integration across different educational platforms, allowing for better data management and analytics. This integration helps in tracking student progress, managing school operations, and improving decision-making processes.Source link:https://ncedcloudlogin.us/</p>
